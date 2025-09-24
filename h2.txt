@@ -1,4 +1,5 @@
 Name: BANISHA
 Section: BCA
+Suc No; 2348390002
 Roll No: 24
-Address; 102-2-67 Bommuru, Rajahmundry
+Address: 102-2-67 Bommuru, Rajahmundry
